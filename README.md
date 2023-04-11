@@ -10,4 +10,8 @@ $ git add .
 
  git push
 
+ touch .gitignore
+
+git tag -a v0.1 -m "Version 0.1"
+
 
