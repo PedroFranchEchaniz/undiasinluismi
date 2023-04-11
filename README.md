@@ -32,4 +32,7 @@ git commit -m "cambios repo"
 
 git push --set-upstream origin v0.2
 
+git checkout main
+
+git merge v0.2
 
